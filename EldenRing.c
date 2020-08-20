@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  printf_s("Elden Ring!");
+  printf_s("Oh! Elden Ring!\n");
   
   return 0;
 }
